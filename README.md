@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# ABOUT ME
+:computer: SSAFY 11th
+
+:blush: Hi, I'm Soyeong Joo, a student studying Python and passionated at data analysis.
+
+:mortar_board: My major is economics.
+
+:rocket: My goal is working finanial IT department, and building a big-data based asset management service.
+
+![이미지](https://storage.enuri.info/pic_upload/knowbox2/11513502720170605190cc147-ff49-417d-a237-d7db7e550eb5.gif)
 <!--
 **address0/address0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
