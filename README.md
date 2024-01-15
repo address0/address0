@@ -5,9 +5,9 @@
 
 :blush: Hi, I'm Soyeong Joo, a student studying Python and passionated at data analysis.
 
-:mortar_board: My major is economics.
+:dollar: My major is economics. Graduated at 2024-02
 
-:rocket: My goal is working finanial IT department, and building a big-data based asset management service.
+:rocket: My goal is working finanial IT department, and building a big-data based asset management service. I want to be IT engineer of economic field!  
 
 ![이미지](https://storage.enuri.info/pic_upload/knowbox2/11513502720170605190cc147-ff49-417d-a237-d7db7e550eb5.gif)
 <!--
