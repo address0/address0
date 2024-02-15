@@ -1,15 +1,15 @@
-### Hi there 👋
-
 # ABOUT ME
-:computer: SSAFY 11th
+- Hi, I'm Soyeong Joo.
+- birth: 2001.09.19
+- gender: woman
+- nationality: Republic of Korea
+- SSAFY 11th
 
-:blush: Hi, I'm Soyeong Joo, a student studying Python and passionated at data analysis.
-
-:dollar: My major is economics. Graduated at 2024-02
-
-:rocket: My goal is working finanial IT department, and building a big-data based asset management service. I want to be IT engineer of economic field!  
-
-![이미지](https://storage.enuri.info/pic_upload/knowbox2/11513502720170605190cc147-ff49-417d-a237-d7db7e550eb5.gif)
+<a href="https://www.acmicpc.net/user/soyong32" target="_blank"><img src="https://img.shields.io/badge/BaekJoon-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/address.__.0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="soyong6624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soyong6624@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/soyong32" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=FFFFFF"/></a>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=address0&show_icons=true&theme=radical)  
 <!--
 **address0/address0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
