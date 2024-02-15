@@ -2,7 +2,7 @@
 - Hi, I'm Soyeong Joo.
 - :baby_chick: 2001.09.19
 - :kr: Republic of Korea
-- 💸 a major of Economic
+- 💸 a major of Economics
 - 🎓 Chung-Ang University class of 2024
 - 💻 SSAFY 11th
 
