@@ -10,7 +10,6 @@
 <a href="https://www.instagram.com/address.__.0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="soyong6624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soyong6624@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://blog.naver.com/soyong32" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=FFFFFF"/></a>  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=address0&show_icons=true&theme=radical)  
 
 ## 🎯 Profile
 기간|소속명|활동|비고
@@ -35,7 +34,9 @@
 2022|주식시장 거품 현상의 심리적 원인 분석|개인||
 2023|넷플릭스 공유금지 정책의 영향 분석|팀장||
 2023|KNR, DT, ARIMA를 이용한 공유자전거 수요 예측|개인||
-2023|제로칼로리 음료 및 무설탕 식품 시장에 대한 경제적 분석|팀원|중앙대학교 경영경제대학 학술제
+2023|제로칼로리 음료 및 무설탕 식품 시장에 대한 경제적 분석|팀원|중앙대학교 경영경제대학 학술제  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=address0&show_icons=true&theme=radical)  
 
 <!--
 **address0/address0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
