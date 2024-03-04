@@ -6,10 +6,21 @@
 - 🎓 Chung-Ang University class of 2024
 - 💻 SSAFY 11th
 
-<a href="https://www.acmicpc.net/user/soyong32" target="_blank"><img src="https://img.shields.io/badge/BaekJoon-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
+<a href="https://www.acmicpc.net/user/soyong32" target="_blank"><img src="https://img.shields.io/badge/BaekJoon-3366CC?style=flat&logo=htmx&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/address.__.0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="soyong6624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soyong6624@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://blog.naver.com/soyong32" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=FFFFFF"/></a>  
+
+### 🛠️ Tools
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=FFFFFF"/></a>
+<a href="https://www.ibm.com/kr-ko/products/spss-statistics" target="_blank"><img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=FFFFFF"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF"/></a>
+<a href="https://colab.google/" target="_blank"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=google colab&logoColor=FFFFFF"/></a>
+<a href="https://kr.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/MATLAB-000000?style=flat&logo=matrix&logoColor=FFFFFF"/></a>
+<a href="https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
+<a href="https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/></a>
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF"/></a>
 
 ## 🎯 Profile
 기간|소속명|활동|비고
@@ -36,6 +47,8 @@
 2023|제로칼로리 음료 및 무설탕 식품 시장에 대한 경제적 분석|팀원|중앙대학교 경영경제대학 학술제|  
 2023|초미세먼지 농도 예측모형설정 및 예측성과 비교|개인||
 2023|KNR, DT, ARIMA를 이용한 공유자전거 수요 예측|개인||
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=address0&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=address0&show_icons=true&theme=radical)  
 
