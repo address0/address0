@@ -23,7 +23,6 @@
 <a href="https://kr.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/MATLAB-000000?style=flat&logo=matrix&logoColor=FFFFFF"/></a>
 <a href="https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
 <a href="https://www.jetbrains.com/ko-kr/pycharm/download/?section=windows" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/></a>
-<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF"/></a>
 <a href="https://www.acmicpc.net/user/soyong32" target="_blank"><img src="https://img.shields.io/badge/Html-3366CC?style=flat&logo=htmx&logoColor=FFFFFF"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
