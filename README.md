@@ -8,7 +8,6 @@
 - 🎓 Chung-Ang University class of 2024
 - 💻 SSAFY 11th
 
-<a href="https://www.acmicpc.net/user/soyong32" target="_blank"><img src="https://img.shields.io/badge/Baekjoon-00BCB4?style=flat&logo=thealgorithms&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/address.__.0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="soyong6624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soyong6624@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://blog.naver.com/soyong32" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=FFFFFF"/></a> 
@@ -26,6 +25,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF"/></a>
 <a href="https://www.acmicpc.net/user/soyong32" target="_blank"><img src="https://img.shields.io/badge/Html-3366CC?style=flat&logo=htmx&logoColor=FFFFFF"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF"/></a>
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Java Script-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF"/></a>
 
 ## 🎯 Profile
 기간|소속명|활동|비고
@@ -54,6 +54,8 @@
 2023|KNR, DT, ARIMA를 이용한 공유자전거 수요 예측|개인||
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=address0&layout=compact)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soyong32)](https://solved.ac/soyong32/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=address0&show_icons=true&theme=radical)  
 
