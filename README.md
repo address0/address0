@@ -68,7 +68,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=address0&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soyong32)](https://solved.ac/soyong32/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soyong32)](https://solved.ac/soyong32/) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=address0&show_icons=true&theme=radical)  
 
